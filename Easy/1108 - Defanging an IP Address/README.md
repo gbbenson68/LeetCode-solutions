@@ -21,6 +21,6 @@ The given address is a valid IPv4 address.
 
 This is, indeed, an easy one. All that you need to do is a straight substitution. **JavaScript**, **Python3** and **Java** all have a ```replace()``` method which allows you to do this easily. **Ruby** has the ```gsub()``` method, which does the same thing.
 
-In **JavaScript**, a _regular expression_ (regex) needs to be used, as using a literal results in **_only_** the first instance of "." gets replaced!
+In **JavaScript**, a _regular expression_ (regex) needs to be used, as using a literal results in **_only_** the first instance of "." getting replaced!
 
-**Java** is a little more finicky, as single quote ('') mean something different - a character - than double quotes ("") - a string. Using double quotes ("") for both the string to be replaced and the replacement string.  
+**Java** is a little more finicky, as single quote ('') mean something different - a character - than double quotes ("") - a string. Using double quotes ("") for both the string to be replaced and the replacement string.
