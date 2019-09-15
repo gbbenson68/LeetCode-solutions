@@ -1,4 +1,4 @@
-class Solution {
+class Solution1165 {
     public int calculateTime(String keyboard, String word) {
         int tmpIdx = 0;
         int prevIdx = 0;

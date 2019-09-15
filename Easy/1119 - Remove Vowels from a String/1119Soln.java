@@ -1,4 +1,4 @@
-class Solution {
+class Solution1119 {
     private boolean isVowel(char c) {
         boolean retVal = false;
         char vowels[] = {'a', 'e', 'i', 'o', 'u'};
