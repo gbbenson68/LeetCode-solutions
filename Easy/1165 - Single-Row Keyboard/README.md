@@ -4,7 +4,7 @@
 
 #### _Given a string keyboard of length 26 indicating the layout of the keyboard (indexed from ```0``` to ```25```), initially your finger is at index ```0```. To type a character, you have to move your finger to the index of the desired character. The time taken to move your finger from index ```i``` to index ```j``` is ```|i - j|```._
 
-#### _You want to type a string word. Write a function to calculate how much time it takes to type it with one finger._
+**_You want to type a string word. Write a function to calculate how much time it takes to type it with one finger._
 
 **Example 1:**
 -   Input: ```keyboard = "abcdefghijklmnopqrstuvwxyz", word = "cba"```
@@ -30,4 +30,4 @@ In all cases, finding the "time" amounts to calculating the _distance_ based on 
 
 In all cases, I used some sort of index method (```index()```, ```indexOf()```) to derive the index of given letter in the ```keyboard```.
 
-Note also that the **Python3** solution a ```class``` is defined (as in **Java**). 
+Note also that the **Python3** solution a ```class``` is defined (as in **Java**).
