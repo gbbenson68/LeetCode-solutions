@@ -2,7 +2,7 @@ LeetCode Solutions
 ==================
 The intention of this repository is **_NOT_** to provide something from which to copy! The intention of this repository is to encourage discussion regarding solutions, and for me to get better as a software engineer.
 
-I know that _LeetCode_ already has discussion boards, but I wanted to make my thought processes and ideas public, so that a more experienced/knowledgable person could give me clues. Also, as _LeetCode_ requires a subscription to use, a more experienced person wouldn't bother with it.
+I know that _LeetCode_ already has discussion boards, but I wanted to make my thought processes and ideas public, so that a more experienced/knowledgable person could give me tips, hints and clues. Also, as _LeetCode_ requires a subscription to use, a more experienced person wouldn't bother with it.
 
 Any given problem can have multiple solutions in a _single_ language. Here, I've included solutions to the four languages which I have been using most frequently in my recent past: JavaScript, Ruby, Python3 and Java.
 
